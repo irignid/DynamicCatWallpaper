@@ -1,0 +1,13 @@
+{
+  "transitionMinutes": 30,
+  "fillMode": "Fill",
+  "schedule": [
+    { "time": "05:30", "image": "Cats_in_misty_forest.jpg" },
+    { "time": "07:00", "image": "Cats_in_morning_forest.jpg" },
+    { "time": "10:30", "image": "Cats_in_peaceful_forest.jpeg" },
+    { "time": "15:30", "image": "Cats_in_golden_forest.jpg" },
+    { "time": "18:30", "image": "Cats_in_evening_forest.jpg" },
+    { "time": "20:00", "image": "Cats_in_enchanted_forest.jpg" },
+    { "time": "22:30", "image": "Cats_in_moonlit_forest.jpg" }
+  ]
+}
